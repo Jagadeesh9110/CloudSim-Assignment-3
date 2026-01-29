@@ -8,10 +8,10 @@ Cloud Computing & Visualization
 - **Roll No:** 23BDS033  
 
 ## Assignment Objective
-This assignment focuses on modeling cloud data center resources using the CloudSim simulator. The objective is to define physical hosts and virtual machines, execute workloads, and analyze resource utilization metrics.
+This assignment focuses on modeling cloud data center resources using the CloudSim 5.0 simulator.The objective is to define physical hosts and virtual machines, execute workloads, and analyze resource utilization metrics such as CPU, RAM, and storage usage.
 
 ## Technologies Used
-- **Simulator:** CloudSim (3.0.x)
+- **Simulator:** CloudSim (5.0)
 - **Language:** Java
 - **IDE:** IntelliJ IDEA
 - **JDK Version:** OpenJDK 8 (Eclipse Temurin)
@@ -37,7 +37,7 @@ src/
 └── cloudbus/
 └── cloudsim/
 └── examples/
-└── CloudResourceModel.java
+       └── CloudResourceModel.java
 
 
 ## Output Metrics
